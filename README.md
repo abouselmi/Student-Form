@@ -1,6 +1,7 @@
 # studentdb
 
 student in firebase
+this one is all about accessing firebase set data there and get it to show on the UI 
 
 ## Getting Started
 
